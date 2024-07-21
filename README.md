@@ -1,7 +1,7 @@
 Hi 👋 My name is Vitaly Grigorev
 ================================
 
-I've an engineering degree in management and computer science in technical systems and currently I’m studying Data Science and Neural Networks
+**I've an engineering degree in management and computer science in technical systems and currently I’m studying Data Science and Neural Networks**
 
 *   🌍  I'm based in Cheboksary, Russia
 *   🧠  I'm learning Python: SciPy, Pandas, Keras, etc.
