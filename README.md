@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi 👋 My name is Vitaly Grigorev
+================================
 
-<!--
-**vi21g/vi21g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Science Engeneer and
+-------------------------
 
-Here are some ideas to get you started:
+I've an engineering degree in management and computer science in technical systems but currently I’m studying Data Science and Neural Networks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Cheboksary, Russia
+*   🧠  I'm learning SciPy, Pandas, Keras
+*   🤝  I'm open to collaborating on AI Projects### Skills 
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+                    </p>
+                    
