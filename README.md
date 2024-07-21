@@ -1,9 +1,6 @@
 Hi 👋 My name is Vitaly Grigorev
 ================================
 
-Data Science Engeneer and
--------------------------
-
 I've an engineering degree in management and computer science in technical systems and currently I’m studying Data Science and Neural Networks
 
 *   🌍  I'm based in Cheboksary, Russia
