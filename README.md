@@ -16,3 +16,4 @@ Hi 👋 My name is Vitaly Grigorev
 **Educational and PET-projects:**
 
 [RAG witcher wiki](https://github.com/vi21g/RAG_witcher_wiki)
+[Telegram bot quiz-like](https://github.com/vi21g/tgBot)
