@@ -4,9 +4,9 @@ Hi 👋 My name is Vitaly Grigorev
 **I've an engineering degree in management and computer science in technical systems and currently I’m studying Data Science and Neural Networks**
 
 *   🌍  I'm based in Cheboksary, Russia
-*   🧠  I'm learning Python: SciPy, Pandas, Keras, etc.
+*   🧠  I'm learning Python: Tensorflow, Keras, Numpy, Pandas, etc.
 *   🤝  I'm open to collaborating on AI Projects
-*   I work as s system administrator and supporting 20 servers and over 100 users
+*   I currently work as system administrator and supporting over 20 servers and over 100 users
 
 
 <p align="left">
