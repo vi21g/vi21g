@@ -25,8 +25,8 @@ Hi 👋 My name is Vitaly Grigorev
 
 [RAG witcher wiki](https://github.com/vi21g/RAG_witcher_wiki) :
 
-LLamaIndex, gpt-4o-mini, arize phoenix, Knowledge Maps: split query to mini-prompts
+On the **LLamaIndex** framework and the language model from **Openai**, developed **RAG** using the **Knowledge Maps** approach: splitting requests into mini-prompts. **Arize Phoenix** tracing is used to track hallucinations
 
 [Telegram bot quiz-like](https://github.com/vi21g/tgBot) :
 
-Aiogram, aiosqlite
+Simple mini-bot based on **aiogram** and **aiosqlite**
