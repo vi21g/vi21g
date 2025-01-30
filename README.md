@@ -15,5 +15,10 @@ Hi 👋 My name is Vitaly Grigorev
                     
 **Educational and PET-projects:**
 
-[RAG witcher wiki](https://github.com/vi21g/RAG_witcher_wiki)
-[Telegram bot quiz-like](https://github.com/vi21g/tgBot)
+[RAG witcher wiki](https://github.com/vi21g/RAG_witcher_wiki) :
+
+LLamaIndex, gpt-4o-mini, arize phoenix, Knowledge Maps: split query to mini-prompts
+
+[Telegram bot quiz-like](https://github.com/vi21g/tgBot) :
+
+Aiogram, aiosqlite
