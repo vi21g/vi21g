@@ -21,12 +21,12 @@ Hi 👋 My name is Vitaly Grigorev
 *ChatGPT, OpenAI, LLM*
 
                     
-**Educational and PET-projects:**
+## **PET-projects:**
 
-[RAG witcher wiki](https://github.com/vi21g/RAG_witcher_wiki) :
+### [RAG witcher wiki](https://github.com/vi21g/RAG_witcher_wiki) :
 
 On the **LLamaIndex** framework and the language model from **Openai**, developed **RAG** using the **Knowledge Maps** approach: splitting requests into mini-prompts. **Arize Phoenix** tracing is used to track hallucinations
 
-[Telegram bot quiz-like](https://github.com/vi21g/tgBot) :
+### [Telegram bot quiz-like](https://github.com/vi21g/tgBot) :
 
 Simple mini-bot based on **aiogram** and **aiosqlite**
