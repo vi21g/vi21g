@@ -13,6 +13,7 @@ Hi 👋 My name is Vitaly Grigorev
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 </p>
 
+## ML/DL Skills
 
 *Python, Numpy, Pandas, Seaborn, Matplotlib;*
 
@@ -20,6 +21,7 @@ Hi 👋 My name is Vitaly Grigorev
 
 *ChatGPT, OpenAI, LLM*
 
+You can chat me at TG: [@grigorev21](https://t.me/grigorev21)
                     
 ## **PET-projects:**
 
