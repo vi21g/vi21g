@@ -27,8 +27,12 @@ You can chat me at TG: [@grigorev21](https://t.me/grigorev21)
 
 ### [RAG witcher wiki](https://github.com/vi21g/RAG_witcher_wiki) :
 
-On the **LLamaIndex** framework and the language model from **Openai**, developed **RAG** using the **Knowledge Maps** approach: splitting requests into mini-prompts. **Arize Phoenix** tracing is used to track hallucinations
+On the **`LLamaIndex`** framework and the language model from **`Openai`**, developed **`RAG`** using the **`Knowledge Maps`** approach: splitting requests into mini-prompts. **`Arize Phoenix`** tracing is used to track hallucinations
 
 ### [Telegram bot quiz-like](https://github.com/vi21g/tgBot) :
 
-Simple mini-bot based on **aiogram** and **aiosqlite**
+Simple mini-bot based on **`aiogram`** and **`aiosqlite`**
+
+### [sklearn-models](https://github.com/vi21g/sklearn-models)
+
+Text binary classification on *Depression: Reddit Dataset* on various **`sklearn`** models
