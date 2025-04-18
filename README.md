@@ -1,38 +1,46 @@
-Hi 👋 My name is Vitaly Grigorev
-================================
+# 👋 Привет, я Виталий Григорьев
 
-**I've an engineering degree in management and computer science in technical systems and currently I’m studying Data Science and Neural Networks**
+## Обо мне:
+Специализируюсь на нейросетях и машинном обучении.  
+Люблю сложные задачи, работаю с данными, моделями и их внедрением.  
+Всегда открыт к новым вызовам и коллаборациям!  
 
-*   🌍  I'm based in Cheboksary, Russia
-*   🧠  I'm learning Python: Tensorflow, Keras, Numpy, Pandas, etc.
-*   🤝  I'm open to collaborating on AI Projects
-*   I currently work as system administrator and supporting over 20 servers and over 100 users
+**🔧 Технологии**: Python, PyTorch/TensorFlow, NLP/CV, классические ML. 
+
+**🧠 Изучаю**: Deep Q Learning, GA + RL, архитектуры GAN 
+
+**📫 Связаться со мной**: [telegram](https://t.me/grigorev21), [e-mail](vitek21sme@gmail.com)
+
+---  
 
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
-
-## ML/DL Skills
-
-*Python, Numpy, Pandas, Seaborn, Matplotlib;*
-
-*Tensorflow, Keras, AutoML;*
-
-*ChatGPT, OpenAI, LLM*
-
-You can chat me at TG: [@grigorev21](https://t.me/grigorev21)
                     
-## **PET-projects:**
+## **Мои проекты:**
 
-### [RAG witcher wiki](https://github.com/vi21g/RAG_witcher_wiki) :
+### [1. RAG-система](https://github.com/vi21g/RAG_witcher_wiki) :
 
-On the **`LLamaIndex`** framework and the language model from **`Openai`**, developed **`RAG`** using the **`Knowledge Maps`** approach: splitting requests into mini-prompts. **`Arize Phoenix`** tracing is used to track hallucinations
+**Описание**: RAG-система для поиска ответов в вики-базе по вселенной «Ведьмака»
 
-### [Telegram bot quiz-like](https://github.com/vi21g/tgBot) :
+**Стек**: `LlamaIndex`, `OpenAI`, `Arize Phoenix`, `Knowledge Maps`, `Jupyter Notebook`
 
-Simple mini-bot based on **`aiogram`** and **`aiosqlite`**
+**Особенности**: Защита от галлюцинаций через трейсинг запросов (Arize Phoenix), оптимизация поиска за счёт декомпозиции запросов (Knowledge Maps), готовое решение для работы с узкоспециализированными данными (например, lore вселенной).
 
-### [sklearn-models](https://github.com/vi21g/sklearn-models)
 
-Text binary classification on *Depression: Reddit Dataset* on various **`sklearn`** models
+### [2. Telegram-бот](https://github.com/vi21g/tgBot) :
+
+**Описание**: Бот в виде викторины: вопрос-ответ с определенной базой знаний. Сохраняет результат по мере прохождения квиза.
+
+**Стек**: `aiogram`, `aiosqlite`
+
+**Особенности**: Асинхронная архитектур для высокой отзывчивости, лёгкая и быстрая база данных на основе SQLite
+
+
+### [3. ML-модели](https://github.com/vi21g/sklearn-models)
+
+**Описание**: Бинарная классификация текстовых постов Reddit на тему депрессии. Реализована на классических ML-алгоритмах из библиотеки **scikit-learn**
+
+**Стек**: `scikit-learn (sklearn)`, `classic ML`, `Depression: Reddit Dataset`
+
+**Особенности**: Сравнение эффективности разных алгоритмов sklearn на текстовых данных, готовый pipeline для бинарной классификации
+
+
